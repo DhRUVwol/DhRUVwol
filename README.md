@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Profile Image" width="160" />
-</p>
 
 
 I am a Computer Science undergraduate with interests in quantum computing, machine learning, and full-stack system design. My work spans quantum chemistry simulations, VQE pipelines, OCR-based automation, EEG-to-text decoding, and modern web development.
