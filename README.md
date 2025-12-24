@@ -1,13 +1,13 @@
 # 💫 About Me:
 I am a Computer Science undergraduate with interests in quantum computing, machine learning, and full-stack system design. My work spans quantum chemistry simulations, VQE pipelines, OCR-based automation, EEG-to-text decoding, and modern web development.<br><br>My goal is to build systems that merge scientific computing with practical engineering.<br><br>
 
-##Areas of Focus<br>
+## Areas of Focus<br>
 -Quantum computing (VQE, Shor’s Algorithm, IBM Quantum Runtime)<br>
 -Machine learning and applied deep learning<br>
 -Full-stack development with Next.js, Python APIs, and MongoDB<br>
 -Scientific computing and algorithmic problem-solving<br>
 
-##Selected Projects<br>
+## Selected Projects<br>
 -Quantum Molecular Simulator – VQE-based ground-state energy estimation (Qiskit, FastAPI, MongoDB)<br>
 -EEG-to-Text Decoding – Deep learning pipeline for translating EEG signals into text<br>
 -OCR Automation System – End-to-end document parsing and data extraction tool<br>
